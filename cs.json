@@ -1,0 +1,9 @@
+{
+    "version": "1.0",
+    "name": "Multimovies",
+    "description": "An extension to stream movies and series from multimovies.today.",
+    "author": "Censored",
+    "source": "https://multimovies.today",
+    "source_type": "json",
+    "extension_url": "https://raw.githubusercontent.com/fakeTest110/Multimovies-Extension/main/src/MultimoviesExtension.kt"
+}
