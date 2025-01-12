@@ -5,5 +5,5 @@
     "author": "Censored",
     "source": "https://multimovies.today",
     "source_type": "json",
-    "extension_url": "https://raw.githubusercontent.com/fakeTest110/Multimovies-Extension/main/src/MultimoviesExtension.kt"
+    "extension_url": "https://raw.githubusercontent.com/fakeTest110/movies/main/src/MultimoviesExtension.kt"
 }
